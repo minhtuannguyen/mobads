@@ -1,0 +1,9 @@
+{:min-bb-version "0.8.0"
+ :paths          ["src" "test"]
+ :deps           {}
+
+ :tasks          {:requires ([sanitize :as sanitize]
+                             [test-runner :as test])
+                  test      test/run-tests
+                  sanitize  sanitize/sanitize}
+ }
