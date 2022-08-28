@@ -301,7 +301,6 @@ a.adtech.de
 ib.anycast.adnxs.com
 pingma.qq.com
 ads.yahoo.com
-api-kit.snapchat.com
 a.mstrlytcs.com
 match.adsrvr.org
 tracking.aatkit.com
