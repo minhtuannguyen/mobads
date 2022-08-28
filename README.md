@@ -1,5 +1,6 @@
 # mobads
-contains a minimal set of dns domains which should be blocked on mobile device. See dns.txt
+contains a minimal set of dns domains which should be blocked on mobile device. See [the dns.txt](dns.txt)
+
 
 # Sanitize
 This task going into the list and remove out-of-date entries by checking them with `nslookup`
