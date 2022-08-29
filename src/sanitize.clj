@@ -8,10 +8,10 @@
 (defn read-dns-entries []
   (if (fs/exists? DNS-FILE-NAME)
     (fs/read-all-lines DNS-FILE-NAME)
-    (prn "==> DNS file" DNS-FILE-NAME "doesn't exist")))
+    (println "==> DNS file" DNS-FILE-NAME "doesn't exist")))
 
 (defn dns-reachable? [entry]
-  (prn ".... checking" entry)
+  (println ".... checking " entry)
   (->> (process ["nslookup" entry])
        :out
        slurp
@@ -27,11 +27,13 @@
         sanitized-dns-entries (some->> actual-dns-entries
                                        sanitize-dns
                                        set)]
-    (when-not (= actual-dns-entries sanitized-dns-entries)
-      (prn "some invalid dns entries has been found")
-      (prn "Back up the old dns:" (str "old-" DNS-FILE-NAME))
-      (fs/delete-if-exists (str "old-" DNS-FILE-NAME))
-      (fs/copy DNS-FILE-NAME (str "old-" DNS-FILE-NAME))
-      (prn "sanitize the dns file")
-      (fs/delete-if-exists DNS-FILE-NAME)
-      (spit (fs/file DNS-FILE-NAME) (str/join "\n" sanitized-dns-entries)))))
+    (if (= actual-dns-entries sanitized-dns-entries)
+      (println "===> The DNS list is ok")
+      (do
+        (println "some invalid dns entries has been found")
+        (println "Back up the old dns: " (str "old-" DNS-FILE-NAME))
+        (fs/delete-if-exists (str "old-" DNS-FILE-NAME))
+        (fs/copy DNS-FILE-NAME (str "old-" DNS-FILE-NAME))
+        (println "sanitize the dns file")
+        (fs/delete-if-exists DNS-FILE-NAME)
+        (spit (fs/file DNS-FILE-NAME) (str/join "\n" sanitized-dns-entries))))))
