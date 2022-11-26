@@ -11,13 +11,15 @@
     (println "==> DNS file" DNS-FILE-NAME "doesn't exist")))
 
 (defn dns-reachable? [entry]
-  (println ".... checking " entry)
-  (->> (process ["nslookup" entry])
-       :out
-       slurp
-       str/split-lines
-       (filter #(str/starts-with? % "Address: "))
-       (seq)))
+  (let [reachable? (->> (process ["nslookup" entry])
+                        :out
+                        slurp
+                        str/split-lines
+                        (filter #(str/starts-with? % "Address: "))
+                        empty?
+                        not)]
+    (println ".... checking " entry " is reachable?: " reachable?)
+    reachable?))
 
 (defn sanitize-dns [dns-entries]
   (filter dns-reachable? dns-entries))
