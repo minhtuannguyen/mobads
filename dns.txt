@@ -3,7 +3,6 @@ stickyadstv.com
 b1sync.zemanta.com
 adx.adnxs.com
 adsdk.adfarm1.adition.com
-ads4.admatic.com.tr
 reporting.aatkit.com
 log.outbrain.com
 ade.googlesyndication.com
@@ -85,7 +84,6 @@ ams1-mobile.adnxs.com
 popmyads.com
 d.adup-tech.com
 itx4-secure.smartadserver.com
-ad.atdmt.com
 dmp.theadex.com
 ads.twitter.com
 ads.youtube.com
@@ -164,7 +162,6 @@ manifest.localytics.com
 s.adroll.com
 ads.revjet.com
 go.admost.com
-logger.catch.gift
 sync.teads.tv
 cdn.popmyads.com
 imasdk.googleapis.com
@@ -191,7 +188,6 @@ app.adjust.com
 log.outbrain.org
 jsc.adskeeper.co.uk
 ups.ksmobile.net
-api.areametrics.com
 analytics.localytics.com
 analytics.twitter.com
 admin.appnext.com
@@ -243,17 +239,14 @@ tpc.googlesyndication.com
 graph.facebook.com
 adserver.unityads.unity3d.com
 stats.g.doubleclick.net
-c2.popads.net
 vht.tradedoubler.com
 mug.criteo.com
 cdn.cookielaw.org
 click.amazingmobi.com
-api.zcoup.com
 static.addtoany.com
 widgets.opinary.com
 b56.s407.meetrics.net
 pubads.g.doubleclick.net
-static.zcoup.com
 minkatu.com
 api.adrtx.net
 xpl.theadex.com
@@ -261,7 +254,6 @@ acdn.adnxs.com
 staging-aws-fr.bidswitch.net
 fra1-mobile.adnxs.com
 ads.pubmatic.com
-static.adthor.com
 adscale.de
 ws.batch.com
 d.df-srv.de
@@ -291,7 +283,6 @@ c.adsco.re
 ad8.adfarm1.adition.com
 mobile-data.onetrust.io
 dsp.adfarm1.adition.com
-api.adthor.com
 tracking.omnitagjs.com
 a.adtech.de
 4625910.fls.doubleclick.net
@@ -314,7 +305,6 @@ cdn-api.admost.com
 aax.amazon-adsystem.com
 profile.localytics.com
 cm.g.doubleclick.net
-ads-player.com
 smartadserver.com
 ads.stickyadstv.com
 a.hstrck.com
@@ -355,7 +345,6 @@ redirects.tradedoubler.com
 prebid.adnxs.com
 ad.period-calendar.com
 loadus.exelator.com
-logger.zcoup.com
 clkuk.tradedoubler.com
 prod.curation.deepthought.cloud
 cdn.dlyads.com
