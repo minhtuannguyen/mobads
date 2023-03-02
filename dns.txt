@@ -34,7 +34,6 @@ ads.mopub.com
 sync.ligadx.com
 dart.l.doubleclick.net
 pixel.tapad.com
-wlperabet.adsrv.eacdn.com
 connect.facebook.net
 bidder.criteo.com
 trc.taboola.com
@@ -120,7 +119,6 @@ rtax.criteo.com
 pagead.l.doubleclick.net
 queuer-prod-elb.53.localytics.com
 api.c.avazunativeads.com
-clk.ecsdk.com
 tracking.performancerevenues.com
 vapi.apk.v-mate.mobi
 ads.avocet.io
@@ -294,7 +292,6 @@ match.adsrvr.org
 tracking.aatkit.com
 api.appodeal.com
 logger.cloudmobi.net
-wlthebetend.adsrv.eacdn.com
 ads.tipico.com
 ads.iosappsworld.com
 track.adform.net
