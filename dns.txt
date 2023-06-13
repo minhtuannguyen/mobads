@@ -172,14 +172,12 @@ fra1-ib.adnxs.com
 api.apptap.com
 beacon.krxd.net
 mpx.mopub.com
-csm.nl.eu.criteo.net
 dis.criteo.com
 a.applovin.com
 config.ioam.de
 eur-ukp.adsrvr.org
 cdn.adrtx.net
 cdn2.teads.tv
-adx-tc.adform.net
 07.nuid.nmrodam.com
 s357.meetrics.net
 app.adjust.com
@@ -210,8 +208,6 @@ ag.gbc.criteo.com
 static.criteo.net
 api.theadex.com
 5371908.fls.doubleclick.net
-adserver.xpanama.net
-dantrack.net
 mads-eu.amazon.com
 ad.adrttt.com
 cdn.privacy-mgmt.com
@@ -240,7 +236,6 @@ stats.g.doubleclick.net
 vht.tradedoubler.com
 mug.criteo.com
 cdn.cookielaw.org
-click.amazingmobi.com
 static.addtoany.com
 widgets.opinary.com
 b56.s407.meetrics.net
@@ -320,8 +315,6 @@ mobile.adsafeprotected.com
 cas.criteo.com
 recommend.apk.v-mate.mobi
 cdn.yoc.com
-farm.plista.com
-cat.fr.eu.criteo.com
 media.admob.com
 wd.adcolony.com
 cdn.adnxs-simple.com
@@ -344,5 +337,4 @@ ad.period-calendar.com
 loadus.exelator.com
 clkuk.tradedoubler.com
 prod.curation.deepthought.cloud
-cdn.dlyads.com
 heapanalytics.com
