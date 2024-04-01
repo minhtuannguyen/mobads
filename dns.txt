@@ -35,7 +35,6 @@ sync.ligadx.com
 dart.l.doubleclick.net
 pixel.tapad.com
 connect.facebook.net
-bidder.criteo.com
 trc.taboola.com
 em.adspirit.de
 shared.iad.appboy.com
@@ -76,7 +75,6 @@ teads.tv
 servicer.mgid.com
 googleads.g.doubleclick.net
 static.doubleclick.net
-app-measurement.com
 assets-jpcust.jwpsrv.com
 secure.adnxs.com
 ams1-mobile.adnxs.com
@@ -115,7 +113,6 @@ dc2.s240.meetrics.net
 alogs.umeng.com
 ssl.google-analytics.com
 googleadservices.com
-rtax.criteo.com
 pagead.l.doubleclick.net
 queuer-prod-elb.53.localytics.com
 api.c.avazunativeads.com
@@ -172,7 +169,6 @@ fra1-ib.adnxs.com
 api.apptap.com
 beacon.krxd.net
 mpx.mopub.com
-dis.criteo.com
 a.applovin.com
 config.ioam.de
 eur-ukp.adsrvr.org
@@ -204,13 +200,10 @@ tk01.webtrekk.net
 traffic.tc-clicks.com
 wlpronet.adsrv.eacdn.com
 choices.trustarc.com
-ag.gbc.criteo.com
-static.criteo.net
 api.theadex.com
 5371908.fls.doubleclick.net
 mads-eu.amazon.com
 ad.adrttt.com
-cdn.privacy-mgmt.com
 api.bdu.rocks
 m.servedby-buysellads.com
 ad.adsrvr.org
@@ -234,8 +227,6 @@ graph.facebook.com
 adserver.unityads.unity3d.com
 stats.g.doubleclick.net
 vht.tradedoubler.com
-mug.criteo.com
-cdn.cookielaw.org
 static.addtoany.com
 widgets.opinary.com
 b56.s407.meetrics.net
@@ -301,18 +292,15 @@ smartadserver.com
 ads.stickyadstv.com
 a.hstrck.com
 21.nuid.nmrodam.com
-firebase-settings.crashlytics.com
 cdn.appnext.com
 go.onclasrv.com
 s240.meetrics.net
 t.teads.tv
 adserver.juicyads.com
 api.apptentive.com
-gum.criteo.com
 assets.adnuntius.com
 ad.doubleclick.net
 mobile.adsafeprotected.com
-cas.criteo.com
 recommend.apk.v-mate.mobi
 cdn.yoc.com
 media.admob.com
