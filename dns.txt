@@ -20,7 +20,6 @@ ad.yieldlab.net
 yildun.iad-03.appboy.com
 scheme.mobpowertech.com
 script.ioam.de
-b.measuread.com
 md-i-s.apptimize.com
 ad-cdn.bilgin.pro
 ib.adnxs.com
@@ -56,7 +55,6 @@ delivery.adnuntius.com
 adservice.google.com
 sb.scorecardresearch.com
 a.optnmstr.com
-p.adsymptotic.com
 iam-agof-app.irquest.com
 ads.justpremium.com
 accado.adspirit.de
@@ -102,14 +100,12 @@ brahe.apptimize.com
 adserver.adtech.de
 config.inmobi.com
 images.taboola.com
-dc8.s240.meetrics.net
 venturead.com
 ads.platform.zalo.me
 init.supersonicads.com
 rules.aatkit.com
 edge-mqtt.facebook.com
 15.taboola.com
-dc2.s240.meetrics.net
 alogs.umeng.com
 ssl.google-analytics.com
 googleadservices.com
@@ -167,7 +163,6 @@ pre.ads.justpremium.com
 b-graph.facebook.com
 fra1-ib.adnxs.com
 api.apptap.com
-beacon.krxd.net
 mpx.mopub.com
 a.applovin.com
 config.ioam.de
@@ -175,7 +170,6 @@ eur-ukp.adsrvr.org
 cdn.adrtx.net
 cdn2.teads.tv
 07.nuid.nmrodam.com
-s357.meetrics.net
 app.adjust.com
 log.outbrain.org
 jsc.adskeeper.co.uk
@@ -229,7 +223,6 @@ stats.g.doubleclick.net
 vht.tradedoubler.com
 static.addtoany.com
 widgets.opinary.com
-b56.s407.meetrics.net
 pubads.g.doubleclick.net
 minkatu.com
 api.adrtx.net
@@ -246,7 +239,6 @@ px.moatads.com
 aax-eu.amazon-adsystem.com
 geid.wbtrk.net
 admob.com
-xml.admetix.com
 cdn4.buysellads.net
 mediation.adnxs.com
 c.mgid.com
@@ -273,7 +265,6 @@ a.adtech.de
 ib.anycast.adnxs.com
 pingma.qq.com
 ads.yahoo.com
-a.mstrlytcs.com
 match.adsrvr.org
 tracking.aatkit.com
 api.appodeal.com
@@ -281,7 +272,6 @@ logger.cloudmobi.net
 ads.tipico.com
 ads.iosappsworld.com
 track.adform.net
-doubledeepclick.com
 adc3-assets.adcolony.com
 wlpashagaming.adsrv.eacdn.com
 cdn-api.admost.com
@@ -294,7 +284,6 @@ a.hstrck.com
 21.nuid.nmrodam.com
 cdn.appnext.com
 go.onclasrv.com
-s240.meetrics.net
 t.teads.tv
 adserver.juicyads.com
 api.apptentive.com
