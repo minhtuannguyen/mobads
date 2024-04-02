@@ -19,7 +19,6 @@ googletagmenager.com
 ad.yieldlab.net
 yildun.iad-03.appboy.com
 scheme.mobpowertech.com
-script.ioam.de
 md-i-s.apptimize.com
 ad-cdn.bilgin.pro
 ib.adnxs.com
@@ -88,7 +87,6 @@ match.taboola.com
 logx.optimizely.com
 i.w.inmobi.com
 steadycdn.com
-de.ioam.de
 ssdk.adkmob.com
 partnerad.l.doubleclick.net
 rules2.aatkit.com
@@ -165,7 +163,6 @@ fra1-ib.adnxs.com
 api.apptap.com
 mpx.mopub.com
 a.applovin.com
-config.ioam.de
 eur-ukp.adsrvr.org
 cdn.adrtx.net
 cdn2.teads.tv
@@ -257,7 +254,6 @@ star.c10r.facebook.com
 a.adnium.com
 c.adsco.re
 ad8.adfarm1.adition.com
-mobile-data.onetrust.io
 dsp.adfarm1.adition.com
 tracking.omnitagjs.com
 a.adtech.de
