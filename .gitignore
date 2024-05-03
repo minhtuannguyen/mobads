@@ -14,3 +14,6 @@ pom.xml.asc
 .cpcache/
 
 .idea/*
+.clj-kondo/*
+.calva
+.lsp
